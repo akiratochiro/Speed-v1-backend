@@ -1,0 +1,17 @@
+{
+  "name": "speed-v1-backend",
+  "version": "1.0.0",
+  "description": "back end of Speed project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "express": "^4.19.2",
+    "https": "^1.0.0",
+    "nodemon": "^3.1.4"
+  }
+}
